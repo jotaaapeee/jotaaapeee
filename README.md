@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-![Snake animation] (https://github.com/jotaaapeee)
+![Snake animation] (https://github.com/jotaaapeee/jotaaapeee/blob/output/github-contribution-grid-snake.svg)
