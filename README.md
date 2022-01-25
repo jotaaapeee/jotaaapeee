@@ -1,4 +1,4 @@
-### Olá eu sou o JP, e sou Desenvolvedor FullStack!
+### Olá eu sou o JP, e sou Desenvolvedor!
 
 ##
 
