@@ -9,19 +9,13 @@
 
 ### 🚀 About Me
 
-Sou um desenvolvedor full-stack com experiência sólida em **suporte técnico, automação de processos**, e desenvolvimento de aplicações PHP/Python.  
-Meu foco é construir soluções que otimizam tarefas e mantêm sistemas críticos estáveis e escaláveis.
+I’m a Full Stack Developer transitioning into roles such as Technical Support, MLOps Engineer, Data Engineer, or DevOps Engineer focused on AI, applying my background in support and automation. I have experience providing support for Linux servers and clients, troubleshooting APIs and various systems, and assisting customers with a focus on general problem resolution.
 
-💡 Atualmente trabalhando com:
-- PHP, Python, JavaScript
-- PostgreSQL, MariaDB
-- Docker, Git, Linux
-- GitHub Actions (CI/CD), Web Scraping (Selenium)
-
-🔍 Em busca de oportunidades como:
-- 💻 Suporte Técnico Nível 2/3
-- ⚙️ DevOps Jr.
-- 🤖 Automação e Infraestrutura
+Technologies I have experience with:
+Data: Python (Pandas, NumPy, Scikit-learn), CI/CD, automation.
+DevOps & Cloud: AWS (S3, EC2, SES, CloudWatch), Docker, Kubernetes, GitHub Actions.
+Databases & Data: PostgreSQL, MariaDB.
+Extras: PHP, Node.js, JavaScript, VueJS.
 
 ---
 
@@ -43,6 +37,4 @@ Meu foco é construir soluções que otimizam tarefas e mantêm sistemas crític
 - 💼 [LinkedIn](https://www.linkedin.com/in/jp-varrichio/)  
 
 ---
-
-<sub>💬 Última atualização: Abril/2025</sub>
 
