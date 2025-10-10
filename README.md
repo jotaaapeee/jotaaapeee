@@ -11,11 +11,11 @@
 
 I’m a Full Stack Developer transitioning into roles such as Technical Support, MLOps Engineer, Data Engineer, or DevOps Engineer focused on AI, applying my background in support and automation. I have experience providing support for Linux servers and clients, troubleshooting APIs and various systems, and assisting customers with a focus on general problem resolution.
 
-Technologies I have experience with:
-Data: Python (Pandas, NumPy, Scikit-learn), CI/CD, automation.
-DevOps & Cloud: AWS (S3, EC2, SES, CloudWatch), Docker, Kubernetes, GitHub Actions.
-Databases & Data: PostgreSQL, MariaDB.
-Extras: PHP, Node.js, JavaScript, VueJS.
+Technologies I have experience with: <br>
+Data: Python (Pandas, NumPy, Scikit-learn), CI/CD, automation. <br>
+DevOps & Cloud: AWS (S3, EC2, SES, CloudWatch), Docker, Kubernetes, GitHub Actions. <br>
+Databases & Data: PostgreSQL, MariaDB. <br>
+Extras: PHP, Node.js, JavaScript, VueJS. <br>
 
 ---
 
