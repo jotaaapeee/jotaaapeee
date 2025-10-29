@@ -9,13 +9,12 @@
 
 ### 🚀 About Me
 
-I’m a Full Stack Developer transitioning into roles such as Technical Support, MLOps Engineer, Data Engineer, or DevOps Engineer focused on AI, applying my background in support and automation. I have experience providing support for Linux servers and clients, troubleshooting APIs and various systems, and assisting customers with a focus on general problem resolution.
+Data Engineer with experience in building and automating data pipelines, data collection and transformation, and cloud infrastructure using AWS, Docker, and GitHub Actions.<br>
+I have a background as a Full Stack Developer (Python and PHP), which allows me to efficiently integrate data pipelines with web applications and automate end-to-end processes.<br>
+Skilled in Python (Pandas, Regex, Scikit-learn), PostgreSQL, and AWS (S3, EC2, SES, CloudWatch), developing reliable and scalable data workflows for analytics and monitoring.<br>
+Currently pursuing a postgraduate degree in Data Science and Artificial Intelligence (Senac DF) and looking for remote opportunities involving data engineering, automation, and cloud computing.<br>
 
-Technologies I have experience with: <br>
-Data: Python (Pandas, NumPy, Scikit-learn), CI/CD, automation. <br>
-DevOps & Cloud: AWS (S3, EC2, SES, CloudWatch), Docker, Kubernetes, GitHub Actions. <br>
-Databases & Data: PostgreSQL, MariaDB. <br>
-Extras: PHP, Node.js, JavaScript, VueJS. <br>
+Tech stack: Python | AWS | Airflow | Docker | ETL | GitHub Actions | PostgreSQL | Linux | CI/CD<br>
 
 ---
 
