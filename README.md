@@ -10,9 +10,13 @@
 ### 🚀 About Me
 
 Data Engineer with experience in building and automating data pipelines, data collection and transformation, and cloud infrastructure using AWS, Docker, and GitHub Actions.<br>
+<br>
 I have a background as a Full Stack Developer (Python and PHP), which allows me to efficiently integrate data pipelines with web applications and automate end-to-end processes.<br>
+<br>
 Skilled in Python (Pandas, Regex, Scikit-learn), PostgreSQL, and AWS (S3, EC2, SES, CloudWatch), developing reliable and scalable data workflows for analytics and monitoring.<br>
+<br>
 Currently pursuing a postgraduate degree in Data Science and Artificial Intelligence (Senac DF) and looking for remote opportunities involving data engineering, automation, and cloud computing.<br>
+<br>
 
 Tech stack: Python | AWS | Airflow | Docker | ETL | GitHub Actions | PostgreSQL | Linux | CI/CD<br>
 
