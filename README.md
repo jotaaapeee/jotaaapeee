@@ -1,8 +1,8 @@
 <h1 align="center">João Pedro Varrichio 👋</h1>
 
 <p align="center">
-  🧑‍💻 Full-Stack Developer • Technical Support • Automation Enthusiast <br>
-  Brasília, Brazil 🇧🇷 | Open to DevOps & Tech Support roles 🌍
+  🧑‍💻 Data Engineer • MLOPs • Automation Enthusiast <br>
+  Brasília, Brazil 🇧🇷 | Open to Data Engineer & MLOPs roles 🌍
 </p>
 
 ---
