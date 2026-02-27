@@ -1,13 +1,13 @@
 <h1 align="center">João Pedro Varrichio 👋</h1>
 
 <p align="center">
-  🧑‍💻 Data Engineer • MLOPs • Automation Enthusiast <br>
+  Fullstack Developer • MLOPs • Automation Enthusiast <br>
   Brasília, Brazil 🇧🇷 | Open to Data Engineer & MLOPs roles 🌍
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
 Data Engineer with experience in building and automating data pipelines, data collection and transformation, and cloud infrastructure using AWS, Docker, and GitHub Actions.<br>
 <br>
@@ -20,7 +20,7 @@ Currently pursuing a postgraduate degree in Data Science and Artificial Intellig
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
