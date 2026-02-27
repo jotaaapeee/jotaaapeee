@@ -2,7 +2,7 @@
 
 <p align="center">
   Fullstack Developer • MLOPs • Automation Enthusiast <br>
-  Brasília, Brazil 🇧🇷 | Open to Data Engineer & MLOPs roles 🌍
+  Brasília, Brazil 🇧🇷 | Open to Fullstack & MLOPs roles
 </p>
 
 ---
