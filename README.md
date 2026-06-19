@@ -1,4 +1,4 @@
-<h1 align="center">João Pedro Varrichio 👋</h1>
+<h1 align="center">João Pedro Guervich Varrichio 👋</h1>
 
 <p align="center">
   Fullstack Developer • Backend & Cloud • Data-Driven Systems <br>
